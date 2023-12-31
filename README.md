@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rituraj Singh</h1>
-<h3 align="center">A passionate about data and it's applications in real world.</h3>
+<h3 align="center">I am passionate about data and it's applications in real world.</h3>
 
 <img align ="right" alt="coding" width = "400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
