@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sr-rituraj&label=Profile%20views&color=0e75b6&style=flat" alt="sr-rituraj" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning and Computer Vision**
+- 🌱 I’m currently learning **Deep Learning and Artificial Intelligence**
 
 - 💬 Ask me about **python, visual C#**
 
